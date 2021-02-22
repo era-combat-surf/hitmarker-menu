@@ -1,0 +1,7 @@
+"MonitorScreen"
+{
+	"$basetexture" "erasurf/wingsmarkerv2_era"
+	"$alphatest" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+}

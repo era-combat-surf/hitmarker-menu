@@ -1,0 +1,9 @@
+"MonitorScreen"
+{
+	"$basetexture" "erasurf/crosshair_alliance_v1_era"
+	"$alphatest" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+}
+
+//Made By Timid 
