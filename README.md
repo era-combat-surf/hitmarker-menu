@@ -10,11 +10,11 @@ How it works: https://www.youtube.com/watch?v=2ck2jKZY17A&feature=emb_title <br>
 * materials/erasurf/ - Default hitmarkers <br>
 
 ### Instalation:
-Put the .smx file into your plugins/ folder (in your server files)
-Move erasurf/ to your server materials/ folder. *(Make sure your server's fastdl is working)*
+Put the .smx file into your plugins/ folder (in your server files) <br>
+Move erasurf/ to your server materials/ folder. *(Make sure your server's fastdl is working)* <br>
 
 ### Adding more hitmarkers:
-If you want to add new hitmarkers, you will have to edit and recompile the plugin
+If you want to add new hitmarkers, you will have to edit and recompile the plugin <br>
 But its pretty simple, follow the example below:
 ```
 char hitmarker_path[][] = {
