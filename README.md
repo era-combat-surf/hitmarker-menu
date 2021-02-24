@@ -10,7 +10,7 @@ How it works: https://www.youtube.com/watch?v=2ck2jKZY17A&feature=emb_title <br>
 * materials/erasurf/ - Default hitmarkers <br>
 
 ### Instalation:
-Put the .smx file into your plugins/ folder (in your server files) <br>
+Put the .smx file into your server plugins/ folder <br>
 Move erasurf/ to your server materials/ folder. *(Make sure your server's fastdl is working)* <br>
 
 ### Adding more hitmarkers:
