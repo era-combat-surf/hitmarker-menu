@@ -73,8 +73,6 @@ int g_client_hitmarker[MAXPLAYERS + 1] 	= {1, ...}; // default hitmarker: wingsm
 int g_client_hit[MAXPLAYERS + 1] 		= {0, ...};	// default hit: none (0)
 
 public OnPluginStart() {
-	PrintToChatAll("roby_hitmarker");
-	
 	RegConsoleCmd("sm_hitmarker", cmd_hitmarker);
 	RegConsoleCmd("sm_hitmarkers", cmd_hitmarker);
 	RegConsoleCmd("sm_hitmark", cmd_hitmarker);
@@ -308,7 +306,7 @@ void make_files_ready() {
 	char vmt2[64], vtf2[64];
 	for (int i = 1; i < TOTAL_HITMARKERS; i++) {
 		Format(vmt, sizeof(vmt), "materials/%s.vmt", hitmarker_path[i]);
-		Format(vtf, sizeof(vtf), "materials/%s.vmt", hitmarker_path[i]);
+		Format(vtf, sizeof(vtf), "materials/%s.vtf", hitmarker_path[i]);
 		Format(vmt2, sizeof(vmt2), "%s.vmt", hitmarker_path[i]);
 		Format(vtf2, sizeof(vtf2), "%s.vtf", hitmarker_path[i]);
 		
