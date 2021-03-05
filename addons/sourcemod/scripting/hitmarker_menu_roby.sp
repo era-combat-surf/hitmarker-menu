@@ -7,7 +7,7 @@ public Plugin myinfo = {
     name = "Hitmarker Menu",
     author = "roby", /* s/o zauni and era surf community */
     description = "Choose your custom kill/hit hitmarker!",
-    version = "1.0",
+    version = "2.0",
     url = "https://steamcommunity.com/id/sleepiest/ OR roby#0577"
 };
 
