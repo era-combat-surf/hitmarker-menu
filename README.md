@@ -4,6 +4,8 @@ Forum link: https://forums.alliedmods.net/showthread.php?t=330813 <br>
 
 How it works: https://www.youtube.com/watch?v=2ck2jKZY17A&feature=emb_title <br>
 
+#### <a href="https://github.com/awyxx/hitmarker-menu/blob/main/addons/sourcemod/scripting/hitmarker_menu_roby.sp"> Source code </a>
+
 ### Stuff:
 * addons/sourcemod/scripting/.sp - Source code <br>
 * addons/sourcemod/plugins/.smx - Compiled plugin<br>
